@@ -2,10 +2,10 @@
 .carousel-item img {
     align-content: center;
     min-width: 100px;
-    width: 300px;
     min-height: 100px;
-    height:300px;
-    padding-left: 250px;
+    height: 500px;
+    width: auto;
+    margin:auto;
 }
 
 
@@ -28,20 +28,27 @@ border: 1px solid;
 .card-col:nth-child(2) {
     background-color: rgb(172, 9, 9);
     border: 1px solid;
-    }
+}
 .card-col:nth-child(3) {
      background-color: rgb(3, 172, 40);
      border: 1px solid;
-     }
+}
 .card-col:nth-child(4) {
    background-color: rgb(149, 144, 168);
    border: 1px solid;
-    }
+}
 .card-col:nth-child(5) {
     background-color: rgb(56, 0, 109);
     border: 1px solid;
-    }
+}
 .container-fluid {
-display:flex;
-justify-content:center;
+    display:flex;
+    justify-content:center;
+}
+
+.navbar {
+    background-image: url('./pokes.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }

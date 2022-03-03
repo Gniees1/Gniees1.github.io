@@ -6,3 +6,10 @@ display:flex;
 display:flex;
 justify-content:space-between;
 }
+
+.navbar {
+    background-image: url('./pokes.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
