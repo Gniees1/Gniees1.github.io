@@ -119,8 +119,3 @@ const soloKanto = () => {
     pokeStats.innerHTML = '';
     pokeId.textContent = '';
 }
-
-
-const home = () =>{
-    window.location.replace("../index.html");
-}

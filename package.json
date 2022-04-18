@@ -1,0 +1,27 @@
+{
+  "name": "ekkert_agustin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gniees1/Gniees1.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gniees1/Gniees1.github.io/issues"
+  },
+  "homepage": "https://github.com/Gniees1/Gniees1.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "hbs": "^4.2.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7"
+  }
+}
