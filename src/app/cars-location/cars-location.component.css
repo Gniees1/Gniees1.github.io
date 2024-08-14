@@ -1,0 +1,35 @@
+.card {
+    width: 300px; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    text-align: center; 
+    margin: 10px; 
+    display: inline-block; 
+    cursor:pointer;
+  }
+  
+  .card h2 {
+    font-family: 'Arial', sans-serif; 
+    color: #333; /
+  }
+  
+  .card p {
+    font-family: 'Arial', sans-serif; 
+    color: #666; 
+  }
+  
+  .card-image {
+    width: 100%; 
+    height: 200px; 
+    overflow: hidden; 
+  }
+  
+  .card-image img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    border-bottom: 1px solid #ccc; 
+  }
+  
