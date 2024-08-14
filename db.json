@@ -1,0 +1,83 @@
+{
+
+    "cars": [
+        {
+            "id":0,
+            "name":"Yaris Hatchback",
+            "Marca": "Toyota",
+            "img": "https://rn-40-prod.s3.amazonaws.com/small_yarishatchback_inventory_image_836faae4f3.webp",
+            "Precio":"19.326.000"
+        },
+        {
+            "id":1,
+            "name":"Yaris Sedán",
+            "Marca": "Toyota",
+            "img":"https://rn-40-prod.s3.amazonaws.com/small_yarissedan_inventory_image_f4abb5714c.webp",
+            "Precio": "23.315.000"
+        },
+        {
+            "id":2,
+            "name":"Corolla GR-Sport",
+            "Marca":"Toyota",
+            "img":"https://ruta40-tasa-prod.s3.us-east-2.amazonaws.com/small_corollagrs_inventory_image_aefab095f5.webp",
+            "Precio":"31.424.000"
+        },
+        {
+            "id":3,
+            "name":"Corolla Cross",
+            "Marca":"Toyota",
+            "img":"https://ruta40-tasa-prod.s3.us-east-2.amazonaws.com/small_corollacross_inventory_image_4ad6d70818.webp",
+            "Precio":"33.291.000"
+        },
+        {
+            "id":4,
+            "name":"Cruze RS",
+            "Marca":"Chevrolet",
+            "img":"https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/vdc-collections/2022/cars/cruze-rs/cruze-rs/02-images/cruze-rs.jpg?imwidth=321",
+            "Precio":"27.791.900"
+        },
+        {
+            "id":5,
+            "name":"Onix",
+            "Marca": "Chevrolet",
+            "img":"https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/vdc-collections/2020/cars/onix-hb/02-images/onix-hb.jpg?imwidth=321",
+            "Precio":"22.589.000"
+        },
+        {
+            "id":6,
+            "name":"Maverick",
+            "Marca":"Ford",
+            "img":"https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-maverick.jpg.dam.full.high.jpg/1708974432390.jpg",
+            "Precio":"33.825.000"
+        },
+        {
+            "id":7,
+            "name":"Mustang",
+            "Marca":"Ford",
+            "img":"https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-mustang.jpg.dam.full.high.jpg/1681762971173.jpg",
+            "Precio":"45.000.000"
+        },
+        {
+            "id":8,
+            "name":"Kuga Hibrida",
+            "Marca":"Ford",
+            "img":"https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-kuga-hibrida.jpg.dam.full.high.jpg/1692821713136.jpg",
+            "Precio":"67.000.000"
+        },
+        {
+            "id":9,
+            "name":"Renegade Sport MT5",
+            "Marca":"Jeep",
+            "img":"https://www.jeep.com.ar/content/dam/cross-regional/latam/jeep/es_ar/2022/renegade-2022/sport-mt5/Renegade_Sport_Branco_Polar-mt5-jellie.png.img.300.png",
+            "Precio":"29.623.000"
+        },
+        {
+            "id":10,
+            "name":"Compass Sport",
+            "Marca":"Jeep",
+            "img":"https://www.jeep.com.ar/content/dam/cross-regional/latam/jeep/es_ar/2022/compass/descripcion-general/modelizer/sport-t270/sport2025.png.img.300.png",
+            "Precio":"37.120.000"
+        }
+
+    ]
+}
